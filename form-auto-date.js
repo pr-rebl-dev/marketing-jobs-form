@@ -1,4 +1,3 @@
-<script>
 document.addEventListener("DOMContentLoaded", function () {
 
   console.log("LOADED :)");
@@ -41,4 +40,3 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
 });
-</script>
