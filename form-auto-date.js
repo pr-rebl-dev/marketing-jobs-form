@@ -1,5 +1,9 @@
 document.addEventListener("DOMContentLoaded", function () {
 
+  function myFunction() {
+      alert("JS loaded correctly!");
+  }
+
   console.log("LOADED :)");
 
   const today = new Date();
