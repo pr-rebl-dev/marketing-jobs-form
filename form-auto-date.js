@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  console.log("GitHub custom script loaded!");
+  console.log("The GitHub custom script has loaded!");
 
   const input = document.getElementById("text-0000001a");
   if (input) {
